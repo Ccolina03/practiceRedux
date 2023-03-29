@@ -1,13 +1,14 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
-
+import Home from './pages/Home'
 import UniversityPages from './pages/UniversityPages';
 
-function App() {
+
+const App = () => {
   return (
-    <main>
-      <div> 
-        
+    <main> 
+      <div>
+        <Home/>
       </div>
     </main>
   );
