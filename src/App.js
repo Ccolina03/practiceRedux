@@ -5,11 +5,11 @@ import UniversityPages from './pages/UniversityPages';
 
 function App() {
   return (
-    <main>
-      <div> 
-        
-      </div>
-    </main>
+   <main> 
+    <div> 
+      
+    </div>
+   </main>
   );
 }
 
